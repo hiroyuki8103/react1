@@ -8,7 +8,7 @@ export default class HomePage extends React.Component {
       <Page
         renderToolbar={() =>
           <Toolbar>
-            <div className='center'>Title</div>
+            <div className='center'>Title22</div>
           </Toolbar>
         }
       >
